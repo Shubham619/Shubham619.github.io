@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Calcutta University, 2015
+* M.S. in Physics, Jadavpur University, 2017
+* Post Graduate Diploma in Big Data, 2020
 
 Work experience
 ======
