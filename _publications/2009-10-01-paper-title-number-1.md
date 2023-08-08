@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "A scalable solution to AlphaZero based Redundancy Analysis for semiconductor chips"
+collection: IEEE
+permalink: /publication/Scalable_Alphara
+date: 12-14 December 2022
+Published in: 2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA)
+Conference Location: Nassau, Bahamas
+paperurl: 'https://ieeexplore.ieee.org/document/10069266'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
+_**Abstract**_ -- Manufacturing flaws in memory devices give rise to defective memory cells rendering the chips unusable and consequently reducing the wafer yield. To overcome the effect of faulty memory cells, redundancies are included in the form of spare rows and columns in the memory device. Redundancy Analysis (RA) is the process of mapping these spare rows and columns to repair faulty lines in the chip. Our previous work AlphaRA, an AlphaZero based Redundancy Analysis method, has demonstrated promising yields. However, training for large values of chip sizes (n) is time-consuming. In this paper, we introduce SAZRA, a scalable solution for AlphaZero based Redundancy Analysis algorithms with the use of Graph Neural Networks (GNNs). The memory chip is designed as a graph so that it can be used in GNNs, thus making the solution independent of n. With just a single training on a dataset of n=16 chips, we are able to achieve yields outperforming existing algorithms on n up to 128 times larger and previously unseen to the neural network. SAZRA maintains a high yield while having the least spare utilization across all chip sizes. It achieves scalability with reduction in training time, execution time, and GPU memory and disk memory requirements.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/10069266)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Published in: 2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA)
