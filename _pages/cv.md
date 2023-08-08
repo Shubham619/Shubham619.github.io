@@ -12,29 +12,29 @@ redirect_from:
 Education
 ======
 * B.S. in Physics, Calcutta University, 2015
-* M.S. in Physics, Jadavpur University, 2017
-* Post Graduate Diploma in Big Data, 2020
+* M.S. in Biotechnology, Jadavpur University, 2017
+* Post Graduate Diploma in Big Data Biology, IBAB Bangalore in collaboration with International Institute of Information Technology Bangalore, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Samsung Semiconductor India R&D 03/2022 - present: Senior Engineer, Machine Learning
+
+* Eversana 03/2021 - 02/2022: Associate Data Science-Data & Analytics
+ 
+* Buddhimed Technologies 01/2020 - 03/2021: Data Analyst- Data Science
+ 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Reinforcement Learning
+* NLP
+  * Large Language Models(GPT, Falcon, Llama, Cerebras etc)
+  * Word Embedding (word2vec- skip-gram, Cbow, negative sampling, glove)
+  * Attention models, Encoder-Decoder models, and transformer
+* Machine Learning
+* Data Analytics
+* Deep learning frameworks: Pytorch, Tensorflow, and Keras
 
 Publications
 ======
@@ -42,18 +42,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+ACHIEVEMENTS
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 1st Rank holder with Best student award for successfully completing Post Graduate Diploma in Big Data Biology with highest CGPA ( 3.79 / 4 )
