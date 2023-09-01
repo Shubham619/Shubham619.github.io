@@ -15,6 +15,8 @@ redirect_from:
 <h1 align="center">Hi 👋, I am Paulami Das</h1>
 <h3 align="center">Senior Software Engineer, Machine Learning at Samsung Semiconductor India Research</h3>
 
+
+
 - 👀 Interested in Deep Learning, Machine Learning and Natural Language Processing
 - 🌱 Currently learning Reinforcement Learning, Graph Neural Network,s and GPT
 - 💞️ Looking to collaborate on AI/ML-based methodology
