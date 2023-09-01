@@ -44,4 +44,6 @@ Publications
   
 ACHIEVEMENTS
 ======
-* 1st Rank holder with Best student award for successfully completing Post Graduate Diploma in Big Data Biology with highest CGPA ( 3.79 / 4 )
+* 1st Rank holder with Best Student award for successfully completing Post Graduate Diploma in Big Data Biology with highest CGPA ( 3.79 / 4 )
+* Best Paper in Techcon 2023 in Machine Learning and Artificial Intelligence at Samsung Semiconductor India Research
+  
