@@ -18,9 +18,9 @@ Education
 Work experience
 ======
 
-* Samsung Semiconductor India R&D 03/2022 - present: Senior Engineer, Machine Learning
+* Samsung Semiconductor India Research 03/2022 - present: Associate Staff Engineer, Machine Learning
 
-* Eversana 03/2021 - 02/2022: Associate Data Science-Data & Analytics
+* Eversana 03/2021 - 02/2022: Associate Data Science - Data & Analytics
  
 * Buddhimed Technologies 01/2020 - 03/2021: Data Analyst - Data Science
  
@@ -29,9 +29,9 @@ Skills
 ======
 * Reinforcement Learning
 * NLP
-  * Large Language Models(GPT, Falcon, Llama, Cerebras etc)
+  * Large Language Models(GPT, Falcon, Llama, Cerebras, etc)
   * Word Embedding (word2vec- skip-gram, Cbow, negative sampling, glove)
-  * Attention models, Encoder-Decoder models, and transformer
+  * Attention models, Encoder-Decoder models, and Transformer
 * Machine Learning
 * Data Analytics
 * Deep Learning frameworks: Pytorch, Tensorflow, and Keras
