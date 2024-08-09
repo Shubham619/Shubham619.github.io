@@ -22,7 +22,7 @@ Work experience
 
 * Eversana 03/2021 - 02/2022: Associate Data Science-Data & Analytics
  
-* Buddhimed Technologies 01/2020 - 03/2021: Data Analyst- Data Science
+* Buddhimed Technologies 01/2020 - 03/2021: Data Analyst - Data Science
  
   
 Skills
@@ -34,7 +34,7 @@ Skills
   * Attention models, Encoder-Decoder models, and transformer
 * Machine Learning
 * Data Analytics
-* Deep learning frameworks: Pytorch, Tensorflow, and Keras
+* Deep Learning frameworks: Pytorch, Tensorflow, and Keras
 
 Publications
 ======
