@@ -18,9 +18,9 @@ redirect_from:
 
 
 - 👀 Interested in Deep Learning, Machine Learning and Natural Language Processing
-- 🌱 Currently learning Reinforcement Learning, Graph Neural Network,s and GPT
+- 🌱 Currently learning Reinforcement Learning, Graph Neural Network and GPT
 - 💞️ Looking to collaborate on AI/ML-based methodology
-- 🔭 Experienced Data Scientist having 3+ years of experience with a demonstrated history of working in the pharmaceuticals, healthcare, clinical and semiconductor domains
+- 🔭 Experienced Data Scientist with 3+ years of experience with a demonstrated history of working in the pharmaceuticals, healthcare, clinical and semiconductor domains
 - 💻 Skilled in Natural Language Processing, Data Analytics, Neural Networks, Python, and Big Data. Strong engineering professional with a Post-Graduate Diploma focused in BigData Biology from International Institute of Information Technology Bangalore and IBAB, Bangalore
 - 📫 How to reach me:   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paulamidas07@gmail.com)
 
