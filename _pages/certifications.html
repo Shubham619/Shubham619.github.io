@@ -1,0 +1,14 @@
+---
+layout: archive
+permalink: /posts/
+title: "Certifications"
+author_profile: true
+---
+
+{% include base_path %}
+
+Testing certifications page
+
+{% for post in site.certifications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
