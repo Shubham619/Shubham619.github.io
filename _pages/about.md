@@ -13,15 +13,15 @@ redirect_from:
 
 
 <h1 align="center">Hi 👋, I am Paulami Das</h1>
-<h3 align="center">Senior Software Engineer, Machine Learning at Samsung Semiconductor India Research</h3>
+<h3 align="center">Associate Staff Engineer, Machine Learning at Samsung Semiconductor India Research</h3>
 
 
 
 - 👀 Interested in Deep Learning, Machine Learning and Natural Language Processing
-- 🌱 Currently learning Reinforcement Learning, Graph Neural Network and GPT
+- 🌱 Currently working on accelerating and optimizing Large Language Models for the Semiconductor Industry
 - 💞️ Looking to collaborate on AI/ML-based methodology
-- 🔭 Experienced Data Scientist with 3+ years of experience with a demonstrated history of working in the pharmaceuticals, healthcare, clinical and semiconductor domains
-- 💻 Skilled in Natural Language Processing, Data Analytics, Neural Networks, Python, and Big Data. Strong engineering professional with a Post-Graduate Diploma focused in BigData Biology from International Institute of Information Technology Bangalore and IBAB, Bangalore
+- 🔭 Experienced Data Scientist with 5+ years of experience with a demonstrated history of working in the pharmaceuticals, healthcare, clinical, and semiconductor domains
+- 💻 Skilled in Natural Language Processing, Reinforcement Learning, Data Analytics, Neural Networks, Python, and Big Data. Strong engineering professional with a Post-Graduate Diploma focused in BigData Biology from International Institute of Information Technology Bangalore and IBAB, Bangalore
 - 📫 How to reach me:   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paulamidas07@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
