@@ -30,8 +30,10 @@ Skills
 * Reinforcement Learning
 * NLP
   * Large Language Models(GPT, Falcon, Llama, Cerebras, etc)
+  * Quantization Techniques
   * Word Embedding (word2vec- skip-gram, Cbow, negative sampling, glove)
   * Attention models, Encoder-Decoder models, and Transformer
+  * Vector Space Models, Similarity Search
 * Machine Learning
 * Data Analytics
 * Deep Learning frameworks: Pytorch, Tensorflow, and Keras
@@ -44,6 +46,9 @@ Publications
   
 ACHIEVEMENTS
 ======
-* 1st Rank holder with Best Student award for successfully completing Post Graduate Diploma in Big Data Biology with highest CGPA ( 3.79 / 4 )
+* 1st Rank holder with the Best Student award for completing Post Graduate Diploma in Big Data Biology with the highest CGPA ( 3.79 / 4 )
 * Best Paper in Techcon 2023 in Machine Learning and Artificial Intelligence at Samsung Semiconductor India Research
+* 2nd Best Demo Booths Award at IEEE Wintechcon 2024, represented Samsung Electronics
+* Qualified Graduate Aptitude Test in Engineering (GATE) with 93 percentile AIR 700.
+
   
