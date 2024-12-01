@@ -1,4 +1,3 @@
-
 ---
 title: "A scalable solution to AlphaZero based Redundancy Analysis for semiconductor chips"
 permalink: /publication/Scalable_Alphara
