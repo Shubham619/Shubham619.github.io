@@ -81,8 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shubham S. Deshmukh"
-  avatar           : "shubham_photo.jpeg"
-  bio              : "AI/ML professional with 7+ years of experience in semiconductor and healthcare AI solution development specializing in transformer-based LLM development, performance and scalability engineering, and distributed multicore inference"
+  avatar           : "shubham_photo.png"
   location         : "Bengaluru, India"
   employer         : "Samsung Semiconductor India Research"
   pubmed           : 
