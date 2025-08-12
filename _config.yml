@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shubham S. Deshmukh"
+title                    :
 title_separator          : "-"
 name                     : &name "Shubha S. Deshmukh"
 description              : &description "Scale AI"
