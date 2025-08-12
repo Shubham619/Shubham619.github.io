@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paulami Das"
+title                    : "Shubham S. Deshmukh"
 title_separator          : "-"
-name                     : &name "Paulami Das"
-description              : &description "AI/ML Enthusiast"
-url                      : https://paulamidas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Shubha S. Deshmukh"
+description              : &description "Scale AI"
+url                      : https://shubham619.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "paulamidas.github.io"
+repository               : "shubham619.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Paulami Das"
-  avatar           : "paulami_photo.png"
-  bio              : "An AI/ML enthusiast experienced in the Semiconductor and healthcare field. Eager to build products and provide 360° support to ML solutions"
-  location         : "Kolkata, India"
-  employer         : "Samsung Semiconductor India R&D"
+  name             : "Shubham S. Deshmukh"
+  avatar           : "shubham_photo.png"
+  bio              : "AI/ML professional with 7+ years of experience in semiconductor and healthcare AI solution development specializing in transformer-based LLM development, performance and scalability engineering, and distributed multicore inference"
+  location         : "Bengaluru, India"
+  employer         : "Samsung Semiconductor India Research"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=S22Q4mMAAAAJ&hl=en"
-  email            : "paulamidas07@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=8fkL4mgAAAAJ"
+  email            : "shubhamdeshmukh40@yahoo.in"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Paulamidas"
+  github           : "https://github.com/shubham619"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/paulami-das-89666861/"
+  linkedin         : "https://www.linkedin.com/in/shubhamdeshmukh619/"
   orcid            : 
   pinterest        :
   soundcloud       :
