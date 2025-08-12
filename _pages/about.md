@@ -23,4 +23,5 @@ redirect_from:
 transformer-based LLM development, performance and scalability engineering, and distributed multicore inference.
 - Expertise in memory-aware optimization, throughput optimization, latency and bandwidth maximization and predictive pipelines.
 
-<a href="Shubham_Deshmukh_Resume_.pdf" download class="btn">Download Resume</a>
+
+<a href="[Shubham_Deshmukh_Resume_.pdf](https://Shubham619.github.io/files/Shubham_Deshmukh_Resume_.pdf)" download class="btn">Download Resume</a>
