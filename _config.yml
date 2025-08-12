@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    :
 title_separator          : "-"
-name                     : &name "Shubham S. Deshmukh"
+#name                     : &name "Shubham S. Deshmukh"
 description              : &description "Scale AI"
 url                      : https://shubham619.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,6 @@ analytics:
 # Site Author
 author:
   name             : "Shubham S. Deshmukh"
- 
   location         : "Bengaluru, India"
   employer         : "Samsung Semiconductor India Research"
   pubmed           : 
