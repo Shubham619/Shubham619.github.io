@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/IMG_9674.jpeg" alt="A descriptive caption for your image" style="width: 100%; height: auto;">
+<img src="/images/IMG_4892.jpeg" alt="A descriptive caption for your image" style="width: 100%; height: auto;">
 
 
 
