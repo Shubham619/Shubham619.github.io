@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shubham S. Deshmukh"
-  avatar           : "shubham_photo.png"
+  avatar           : "/shubham_photo.png"
   location         : "Bengaluru, India"
   employer         : "Samsung Semiconductor India Research"
   pubmed           : 
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/shubham619"
+  github           : "shubham619"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
-  lastfm           :
-  linkedin         : "https://www.linkedin.com/in/shubhamdeshmukh619/"
+  leetcode         : "https://leetcode.com/u/shubham619/"
+  linkedin         : "shubhamdeshmukh619/"
   orcid            : 
   pinterest        :
   soundcloud       :
