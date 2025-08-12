@@ -316,9 +316,10 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 /* --- Custom Background Image --- */
 
 /* --- Custom Image Scroll Gallery --- */
-.image-gallery img {
-  display: inline-block;
-  max-height: 500px; /* <-- Increase this value until it scrolls */
-  margin-right: 15px;
-  border-radius: 8px;
+.image-gallery {
+  overflow-x: auto;
+  white-space: nowrap;
+  padding-bottom: 15px;
+  max-width: 800px; /* <-- Add this line */
+  margin: auto;     /* <-- Add this to center the gallery */
 }
