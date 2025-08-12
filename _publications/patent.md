@@ -1,14 +1,13 @@
 ---
-title: "METHODS AND ELECTRONIC DEVICE FOR REPAIRING MEMORY ELEMENT IN MEMORY DEVICE"
-permalink: /publication/patent
-date: 2024-01-11
-venue: 'US A1 Patent'
+title: "Optimizing Transformer Based Inference Efficiency Using CMM-D"
+date: 2024-12-05
+venue: 'IIT Kharagpur, India'
 ---
 
 
-_**Abstract**_ -- A method for repairing a memory device with faulty memory cells. The method includes defining a RA environment comprising a location of each of the faulty memory cells and a plurality of SR and a plurality of SC. The method further includes repairing the faulty memory cells based on an RA training process using the defined RA environment and mapping of the location of each faulty memory cell with the plurality of SC or SR. The method further includes training, based on a determination that indicates the at least one faulty memory cell among the faulty memory cells is left unrepaired and the at least one SC or SR is remaining, a first NN to perform an action for repairing of the faulty memory cells such that a maximum number of faulty memory cells are reparable and a minimum number of SC and SR are utilized during the repairing.
+_**Abstract**_ -- Recent advancements in large language models like GPT have significantly impacted AI, expanding model sizes to hundreds of billions of parameters. Meanwhile, GPU memory has increased only 5x, from 16GB to 80GB, leading to the GPU memory wall, where memory limitations severely hinder performance. System architecture improvements have allowed for larger models by integrating GPU memory across multiple units. However, training a trillion-parameter model would require 80 NVIDIA V100 GPUs, making it prohibitively expensive and resource-intensive. This paper demonstrates that integrating DDR with CMM-D mitigates issues of memory capacity and bandwidth saturation, improving IPM (Inference per minute) by up to 3x compared to using DDR alone. To fully address these limitations, adopting CXL (Compute Express Link) becomes crucial, as it decouples memory expansion from physical constraints, allowing for scalable and efficient memory growth across multiple devices, thereby optimizing overall system performance and cost-effectiveness for AI workloads.
 
-[Check the patent here](https://patentcenter.uspto.gov/applications/18218893/)
+[Check the link]([https://patentcenter.uspto.gov/applications/18218893/](https://ieeexplore.ieee.org/abstract/document/10958315))
 
 
 
