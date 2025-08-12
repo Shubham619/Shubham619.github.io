@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/IMG_4892.jpeg" alt="A descriptive caption for your image" style="width: 100%; height: auto;">
-
+<div class="image-gallery">
+  <img src="/images/IMG_4892.jpeg" alt="IEEE Wintechcon 2023">
+  <img src="/images/IMG_9674.jpeg" alt="IEEE INDICON 2024">
+  </div>
 
 
 <h1 align="center">Hi 👋, I am Shubham S. Deshmukh</h1>
