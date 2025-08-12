@@ -4,8 +4,7 @@ layout: archive
 title: "Open Source"
 permalink: /certifications/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
