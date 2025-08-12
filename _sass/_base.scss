@@ -320,16 +320,20 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 /* --- Custom Image Scroll Gallery --- */
 /* --- Custom Image Scroll Gallery --- */
 /* --- Force Scrollbar to be Visible --- */
-.image-gallery::-webkit-scrollbar {
-  -webkit-appearance: none;
-  height: 8px; /* Sets the height of the scrollbar */
+/* --- Custom Image Scroll Gallery --- */
+.gallery-container {
+  padding-right: 50px; /* Creates space for the next image to peek through */
 }
 
-.image-gallery::-webkit-scrollbar-thumb {
-  background-color: rgba(0, 0, 0, 0.5); /* Sets the color of the scrollbar handle */
-  border-radius: 4px; /* Rounds the corners of the handle */
+.image-gallery {
+  overflow-x: auto;
+  white-space: nowrap;
+  padding-bottom: 15px;
 }
 
-.image-gallery::-webkit-scrollbar-track {
-  background-color: #f1f1f1; /* Sets the color of the track */
+.image-gallery img {
+  display: inline-block;
+  max-height: 400px;  /* <-- Use a LARGE value here to force overflow */
+  margin-right: 15px;
+  border-radius: 8px;
 }
