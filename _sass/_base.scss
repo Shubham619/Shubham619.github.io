@@ -324,7 +324,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 }
 
 .image-gallery {
-  overflow-x: auto;
+  overflow-x: scroll;
   white-space: nowrap;
   padding-bottom: 15px;
 }
