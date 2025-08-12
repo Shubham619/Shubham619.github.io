@@ -317,14 +317,21 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
 /* --- Custom Image Scroll Gallery --- */
 /* --- Custom Image Scroll Gallery --- */
+/* --- Custom Image Scroll Gallery --- */
+.gallery-container {
+  padding-right: 50px; /* This creates space on the right to show the next image */
+  position: relative;
+  width: 100%;
+}
+
 .image-gallery {
-  overflow-x: auto;      /* Enables horizontal scrolling */
-  white-space: nowrap;   /* THIS IS THE KEY: It forces images onto one line */
+  overflow-x: auto;
+  white-space: nowrap;
   padding-bottom: 15px;
 }
 
 .image-gallery img {
-  display: inline-block; /* This aligns the images side-by-side */
+  display: inline-block;
   max-height: 250px;
   margin-right: 15px;
   border-radius: 8px;
