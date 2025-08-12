@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
+---
 
 <h1 align="center">Hi 👋, I am Shubham S. Deshmukh</h1>
 <h3 align="center">Staff Engineer, MLE at Samsung Semiconductor India Research</h3>
