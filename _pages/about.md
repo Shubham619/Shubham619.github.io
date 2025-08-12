@@ -7,10 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div class="image-gallery">
-  <img src="/images/IMG_4892.jpeg" alt="IEEE Wintechcon 2023">
-  <img src="/images/IMG_9674.jpeg" alt="IEEE INDICON 2024">
+<div class="gallery-container">
+  <div class="image-gallery">
+    <img src="/images/IMG_4892.jpeg" alt="IEEE Wintechcon 2023">
+    <img src="/images/IMG_9674.jpeg" alt="IEEE INDICON 2024">
+    ...
   </div>
+</div>
 
 
 <h1 align="center">Hi 👋, I am Shubham S. Deshmukh</h1>
