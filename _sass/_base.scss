@@ -316,10 +316,16 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 /* --- Custom Background Image --- */
 
 /* --- Custom Image Scroll Gallery --- */
+/* --- Custom Image Scroll Gallery --- */
 .image-gallery {
-  overflow-x: auto;
-  white-space: nowrap;
+  overflow-x: auto;      /* Enables horizontal scrolling */
+  white-space: nowrap;   /* THIS IS THE KEY: It forces images onto one line */
   padding-bottom: 15px;
-  max-width: 800px; /* <-- Add this line */
-  margin: auto;     /* <-- Add this to center the gallery */
+}
+
+.image-gallery img {
+  display: inline-block; /* This aligns the images side-by-side */
+  max-height: 500px;
+  margin-right: 15px;
+  border-radius: 8px;
 }
