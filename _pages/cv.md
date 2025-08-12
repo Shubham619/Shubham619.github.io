@@ -40,7 +40,7 @@ Skills
 ACHIEVEMENTS
 ======
 * Runner-up at IEEE Wintechcon 2024 and Best Paper award in Techcon 2024 at SSIR
-• Received Citation for the Work Quality
-• National level Gold Medalist in 9th National Choi Kwang Do Championship
+* Received Citation for the Work Quality
+* National level Gold Medalist in 9th National Choi Kwang Do Championship
 
   
