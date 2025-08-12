@@ -1,4 +1,3 @@
-
 ---
 title: "Suspect Recommendation For Memory Devices"
 date: 2023-12-05
