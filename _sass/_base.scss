@@ -318,10 +318,9 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 /* --- Custom Image Scroll Gallery --- */
 /* --- Custom Image Scroll Gallery --- */
 /* --- Custom Image Scroll Gallery --- */
+/* --- Custom Image Scroll Gallery --- */
 .gallery-container {
-  padding-right: 50px; /* This creates space on the right to show the next image */
-  position: relative;
-  width: 100%;
+  padding-right: 50px; /* Creates space for the next image to peek through */
 }
 
 .image-gallery {
@@ -332,7 +331,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
 .image-gallery img {
   display: inline-block;
-  max-height: 250px;
+  max-height: 400px;  /* <-- Use a LARGE value here to force overflow */
   margin-right: 15px;
   border-radius: 8px;
 }
