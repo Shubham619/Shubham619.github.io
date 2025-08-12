@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "About me"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,44 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Calcutta University, 2015
-* M.S. in Biotechnology, Jadavpur University, 2017
-* Post Graduate Diploma in Big Data Biology, IBAB Bangalore in collaboration with International Institute of Information Technology Bangalore, 2020
+* Master of Engineering, Data Science and Engineering Bits Pilani, Expected: Sep 2025
+* Bachelor of Engineering, Computer Engineering Savitribai Phule Pune University, 2017
+* Diploma, Computer Engineering MSBTE, 2014
+
 
 Work experience
 ======
 
-* Samsung Semiconductor India Research 03/2022 - present: Associate Staff Engineer, Machine Learning
-
-* Eversana 03/2021 - 02/2022: Associate Data Science - Data & Analytics
- 
-* Buddhimed Technologies 01/2020 - 03/2021: Data Analyst - Data Science
- 
+* Samsung Semiconductor India Research, Bengaluru 06/2021 - present: Staff Engineer - MLE (memory)
+* Buddhimed Technologies, Bengaluru Aug 2020 - June 2021 : NLP Engineer   
+* Concentrix Global analytics, Pune May 2019 - Aug 2020 : Data Analyst 
+* MyNalanda Solutions and Services, Pune Feb 2018 - Jan 2019 : Data Analyst  
+* IIM Lucknow, Remote Nov 2017 - Jan 2018 :  Remote Intern
+  
   
 Skills
 ======
-* Reinforcement Learning
-* NLP
-  * Large Language Models(GPT, Falcon, Llama, Cerebras, etc)
-  * Quantization Techniques
-  * Word Embedding (word2vec- skip-gram, Cbow, negative sampling, glove)
-  * Attention models, Encoder-Decoder models, and Transformer
-  * Vector Space Models, Similarity Search
-* Machine Learning
-* Data Analytics
-* Deep Learning frameworks: Pytorch, Tensorflow, and Keras
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Frameworks: Python, PyTorch
+* Multicore, Distributed and scaling 
+* LLM & Attention Mechanisms: GPT, JAX-int, Transformers, KV-cache
+* Optimization, Multi-Head/MLA/Auxiliary-Loss-Free Load Balancing
+* Architectures & Compilation: MoE, XLA, QAT, Sparse Activation, Conditional Computation 
+* Performance and Optimization: DualPipe, Distributed Multicore Inference
+* Dynamic Batching, RAG (HNSW, FAISS), Quantization (FP32, BF16, INT8), PEFT (LoRA/Multi-LoRA), ZeRO.
   
+
 ACHIEVEMENTS
 ======
-* 1st Rank holder with the Best Student award for completing Post Graduate Diploma in Big Data Biology with the highest CGPA ( 3.79 / 4 )
-* Best Paper in Techcon 2023 in Machine Learning and Artificial Intelligence at Samsung Semiconductor India Research
-* 2nd Best Demo Booths Award at IEEE Wintechcon 2024, represented Samsung Electronics
-* Qualified Graduate Aptitude Test in Engineering (GATE) with 93 percentile AIR 700.
+* Runner-up at IEEE Wintechcon 2024 and Best Paper award in Techcon 2024 at SSIR
+• Received Citation for the Work Quality
+• National level Gold Medalist in 9th National Choi Kwang Do Championship
 
   
