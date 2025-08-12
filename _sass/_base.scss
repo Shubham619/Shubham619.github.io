@@ -315,3 +315,16 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 }
 /* --- Custom Background Image --- */
 
+/* --- Custom Image Scroll Gallery --- */
+.image-gallery {
+  overflow-x: auto;      /* This enables the horizontal scrollbar when needed */
+  white-space: nowrap;   /* This keeps all your images in a single line */
+  padding-bottom: 15px;  /* Adds some space below the gallery */
+}
+
+.image-gallery img {
+  display: inline-block; /* This aligns the images side-by-side */
+  max-height: 300px;     /* You can change this to control the image height */
+  margin-right: 15px;    /* This adds space between the images */
+  border-radius: 8px;    /* This gives the images slightly rounded corners */
+}
