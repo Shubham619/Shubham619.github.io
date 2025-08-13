@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shubham S. Deshmukh"
+  #name             : "Shubham S. Deshmukh"
   location         : "Bengaluru, India"
   employer         : "Samsung Semiconductor India Research"
   pubmed           : 
